@@ -1,3 +1,2 @@
-export function sayHello() {
-    console.log("Hello, world!");
-  }
+export { SDK } from './SDK';
+export { SDKConfig } from './types';
